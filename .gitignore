@@ -1,0 +1,15 @@
+# Artefatos gerados pelos laboratorios
+malware_lab/chave.key
+malware_lab/baseline.json
+malware_lab/keylog.txt
+malware_lab/recebido.log
+wordlists/
+resultados_*/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema
+.DS_Store
+Thumbs.db
